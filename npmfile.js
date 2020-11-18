@@ -1,3 +1,3 @@
 exports.printMsg = function() {
-    console.log("Visit http://s-cubestudios.com for a treat!");
+    console.log("Visit https://scubestudios.com for a treat!");
 };
